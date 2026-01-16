@@ -1,4 +1,4 @@
-package org.Employed.plugin;
+package org.seriousappcompany.plugin;
 
 import com.hypixel.hytale.protocol.GameMode;
 import com.hypixel.hytale.server.core.Message;

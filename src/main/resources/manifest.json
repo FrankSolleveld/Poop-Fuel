@@ -1,0 +1,22 @@
+{
+    "Group": "Employed",
+    "Name": "PoopFuelPlugin",
+    "Version": "1.0.0",
+    "Description": "Poop is now fuel for your furnace!",
+    "Authors": [
+        {
+            "Name": "Frank Solleveld"
+        }
+    ],
+    "Website": "seriousappcompany.com",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "org.seriousappcompany.plugin.PoopFuelPlugin",
+    "IncludesAssetPack": true
+}

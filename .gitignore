@@ -1,0 +1,17 @@
+# Hytale / runtime output
+run/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+.gradle/
+build/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db

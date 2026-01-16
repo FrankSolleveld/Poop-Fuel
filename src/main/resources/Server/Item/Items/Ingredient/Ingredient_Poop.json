@@ -3,7 +3,7 @@
     "Name": "server.items.Ingredient_Poop.name"
   },
   "Categories": [
-    "Blocks.Rocks"
+    "Items.Ingredients"
   ],
   "BlockType": {
     "DrawType": "Model",
@@ -43,9 +43,6 @@
     "CustomModelScale": 0.75
   },
   "ResourceTypes": [
-    {
-      "Id": "Rock"
-    },
     {
       "Id": "Fuel"
     }

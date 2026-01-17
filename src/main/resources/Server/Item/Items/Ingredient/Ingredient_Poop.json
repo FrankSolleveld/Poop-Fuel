@@ -85,5 +85,5 @@
   },
   "ItemSoundSetId": "ISS_Items_Splatty",
   "DropOnDeath": true,
-  "FuelQuality": 2
+  "FuelQuality": 3
 }
